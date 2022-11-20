@@ -1,7 +1,7 @@
 # Enabling 32-bit support on the Pixel 7
 Pixel 7 vendor build.prop files with 32-bit support
 
-**Meant to be used in conjunction with $PLACEHOLDER**
+**Meant to be used in conjunction with [this thread on XDA](https://forum.xda-developers.com/t/tutorial-magisk-enabling-32-bit-support-for-apps.4521029/)**
 
 The build.prop files are specifically the ones from `/vendor/build.prop`.
 
