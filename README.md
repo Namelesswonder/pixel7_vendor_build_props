@@ -7,19 +7,22 @@ Folder structure for the repo is:
 ```
   [Repo]
        \ 
-        |- [Release Version]
+        |- [Name-Release Version]
         |                  \
         |                   |- build.prop
         |          
-        |- [Release Version]
+        |- [Name-Release Version]
         |                  \
         |                   |- build.prop
         |
         ...
 ```
-Simply just navigate to the release version you are using and download the build.prop
 
-The build.prop files are specifically the ones from `/vendor/build.prop`
+With `name` being the codename for your device and `release version` being what you are using.  
+- Pixel 7 Pro - `cheetah`  
+- Pixel 7 - `panther`
+
+The build.prop files are specifically the ones from `/vendor/build.prop`.
 
 They have been pre-modified to allow for 32-bit support by enabling `Zygote64_32` and adding `armeabi-v7a` and `armeabi` to the ABI lists.
 
