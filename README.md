@@ -12,10 +12,15 @@ They have been pre-modified to allow for 32-bit support by enabling `Zygote64_32
 - [Pixel 7 Pro - November 2022 - Telia](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/cheetah-td1a.221105.001.a1/build.prop)
 - [Pixel 7 Pro - November 2022 - Verizon](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/cheetah-td1a.221105.003/build.prop)
 - [Pixel 7 Pro - November 2022 - QPR1 Beta 3.1](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/cheetah-t1b3.221003.008/build.prop)
+- [Pixel 7 Pro - December 2022 - Global](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/cheetah-tq1a.221205.012/build.prop)
+- [Pixel 7 Pro - December 2022 - O2 UK](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/cheetah-tq1a.221205.011/build.prop)
+***
 - [Pixel 7 - November 2022 - Global](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/panther-td1a.221105.001/build.prop)
 - [Pixel 7 - November 2022 - Telia](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/panther-td1a.221105.001.a1/build.prop)
 - [Pixel 7 - November 2022 - Verizon](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/panther-td1a.221105.003/build.prop)
 - [Pixel 7 - November 2022 - QPR1 Beta 3.1](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/panther-t1b3.221003.008/build.prop)
+- [Pixel 7 - December 2022 - Global](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/panther-tq1a.221205.011/build.prop)
+- [Pixel 7 - December 2022 - O2 UK](https://raw.githubusercontent.com/Namelesswonder/pixel7_vendor_build_props/main/panther-tq1a.221205.012/build.prop)
 
 ## Folder structure for the repo
 ```
